@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.title{
+    background-color: rgb(21, 13, 13);
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+}
+a{
+    text-align: center;
+}
